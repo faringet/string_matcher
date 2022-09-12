@@ -1,5 +1,5 @@
 # string_matcher
-The program compares the most similar strings from the first set with the strings from the second set and outputs the result to a file.
+The program compares the most similar strings from the first set with the strings from the second set and outputs the result to file.
 
 The java-string-similarity library is used, namely [Ratcliff/Obershelp Pattern Recognition](https://github.com/tdebatty/java-string-similarity#ratcliff-obershelp):
 
